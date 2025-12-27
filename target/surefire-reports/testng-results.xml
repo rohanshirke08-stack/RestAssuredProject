@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-12-28T01:22:10 IST" name="Surefire suite" finished-at="2025-12-28T01:22:19 IST" duration-ms="9294">
+    <groups>
+    </groups>
+    <test started-at="2025-12-28T01:22:10 IST" name="Surefire test" finished-at="2025-12-28T01:22:19 IST" duration-ms="9294">
+      <class name="api.test.UserTests">
+        <test-method is-config="true" signature="setupData()[pri:0, instance:api.test.UserTests@327b636c]" started-at="2025-12-28T01:22:10 IST" name="setupData" finished-at="2025-12-28T01:22:10 IST" duration-ms="644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupData -->
+        <test-method signature="testPostUser()[pri:1, instance:api.test.UserTests@327b636c]" started-at="2025-12-28T01:22:10 IST" name="testPostUser" finished-at="2025-12-28T01:22:14 IST" duration-ms="3895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPostUser -->
+        <test-method signature="testGetUserByName()[pri:2, instance:api.test.UserTests@327b636c]" started-at="2025-12-28T01:22:14 IST" name="testGetUserByName" finished-at="2025-12-28T01:22:15 IST" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserByName -->
+        <test-method signature="testUpdateUserByName()[pri:3, instance:api.test.UserTests@327b636c]" started-at="2025-12-28T01:22:16 IST" name="testUpdateUserByName" finished-at="2025-12-28T01:22:18 IST" duration-ms="2301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUpdateUserByName -->
+        <test-method signature="testDeleteUserByName()[pri:4, instance:api.test.UserTests@327b636c]" started-at="2025-12-28T01:22:18 IST" name="testDeleteUserByName" finished-at="2025-12-28T01:22:19 IST" duration-ms="1149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDeleteUserByName -->
+      </class> <!-- api.test.UserTests -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
